@@ -1,0 +1,27 @@
+body{
+	background-color:#F5DB64;
+}
+#chatBox-1{
+	padding:150px;
+}
+#chatBox-2{
+	width:40%;
+	height:500px;
+	background-color:#FFFFFF;
+	border-style:solid;
+	border-width:thin;
+	margin-left:150px;
+	overflow:scroll;
+}
+#chatText{
+	width:40%;
+}
+#controls{
+	margin-left:150px;
+}
+#btnSend{
+	width:50px;
+	height:45px;
+	position:relative;
+	bottom:20px;
+}
